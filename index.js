@@ -13,6 +13,33 @@ function divide(a, b) {
     return a / b
 }
 
+function increment(a) {
+    return a + 1
+}
+
+function decrement(a) {
+    return a - 1
+}
+
+function makeInt(string) {
+    return string
+}
+
+function preserveDecimal(a){
+    return (parseInt(a,10))
+
+}
+
+function preserveDecimal(string){
+    return parseInt(2, 10)
+}
+
+
+
+
+
+
+
 
 
 
